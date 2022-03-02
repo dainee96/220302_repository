@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 포트폴리오를 위한 Github.io 실습
 
 You can use the [editor on GitHub](https://github.com/dainee96/220302_repository/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
